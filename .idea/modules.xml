@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-api-server/wyh-haoke-manage-api-server.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-api-server/wyh-haoke-manage-api-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad/wyh-haoke-manage-dubbo-server-ad.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad/wyh-haoke-manage-dubbo-server-ad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad/wyh-haoke-manage-dubbo-server-ad-interface/wyh-haoke-manage-dubbo-server-ad-interface.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad/wyh-haoke-manage-dubbo-server-ad-interface/wyh-haoke-manage-dubbo-server-ad-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad/wyh-haoke-manage-dubbo-server-ad-service/wyh-haoke-manage-dubbo-server-ad-service.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad/wyh-haoke-manage-dubbo-server-ad-service/wyh-haoke-manage-dubbo-server-ad-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-common/wyh-haoke-manage-dubbo-server-common.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-common/wyh-haoke-manage-dubbo-server-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-generator/wyh-haoke-manage-dubbo-server-generator.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-generator/wyh-haoke-manage-dubbo-server-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources/wyh-haoke-manage-dubbo-server-house-resources.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources/wyh-haoke-manage-dubbo-server-house-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources/wyh-haoke-manage-dubbo-server-house-resources-dubbo-service/wyh-haoke-manage-dubbo-server-house-resources-dubbo-service.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources/wyh-haoke-manage-dubbo-server-house-resources-dubbo-service/wyh-haoke-manage-dubbo-server-house-resources-dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources/wyh-haoke-manage-dubbo-server-house-resources-interface/wyh-haoke-manage-dubbo-server-house-resources-interface.iml" filepath="$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources/wyh-haoke-manage-dubbo-server-house-resources-interface/wyh-haoke-manage-dubbo-server-house-resources-interface.iml" />
+    </modules>
+  </component>
+</project>

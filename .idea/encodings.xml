@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-api-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad/wyh-haoke-manage-dubbo-server-ad-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-ad/wyh-haoke-manage-dubbo-server-ad-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources/wyh-haoke-manage-dubbo-server-house-resources-dubbo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wyh-haoke-manage-dubbo-server/wyh-haoke-manage-dubbo-server-house-resources/wyh-haoke-manage-dubbo-server-house-resources-interface" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
